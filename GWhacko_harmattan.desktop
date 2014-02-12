@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=TestWhack
+Exec=/usr/bin/invoker --type=d -s /opt/TestWhack/bin/TestWhack
+Icon=/usr/share/icons/hicolor/80x80/apps/TestWhack80.png
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
